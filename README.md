@@ -1,6 +1,6 @@
 🇪🇹 Ge'ezCode Pro
 
-🏆 Top 10 Finalist – National Ethiopic App Competition (2025/26)
+🏆 Top 10 Finalist – National Ethiopic App Competition (2026)
 
 Ge'ezCode Pro is an innovative IDE (Integrated Development Environment) designed to empower Ethiopian developers by allowing them to write logic using the Ge'ez script and Amharic syntax.🚀 Vision"ባህልና ቴክኖሎጂ ለታላቅቷ ኢትዮጵያ" (Culture and technology for a Great Ethiopia)Our goal is to lower the barrier to entry for coding in Ethiopia and promote digital sovereignty.
 
